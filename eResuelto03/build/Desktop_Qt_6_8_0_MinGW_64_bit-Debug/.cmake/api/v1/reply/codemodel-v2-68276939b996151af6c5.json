@@ -1,0 +1,79 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-7e6ceb115287d9b94f88.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "eResuelto03",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "eResuelto03::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-eResuelto03-Debug-c2002ed5cb819dded39b.json",
+					"name" : "eResuelto03",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "eResuelto03_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-eResuelto03_autogen-Debug-bb06c4ecd35338a9b851.json",
+					"name" : "eResuelto03_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "eResuelto03_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-eResuelto03_autogen_timestamp_deps-Debug-1e3d3e7d68febe5e84f4.json",
+					"name" : "eResuelto03_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "D:/Qt/eResuelto03/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug",
+		"source" : "D:/Qt/eResuelto03"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}

@@ -1,0 +1,26 @@
+# ninja log v6
+13	400	7527273455641574	eResuelto03_autogen/timestamp	2460c581cf74b83d
+13	400	7527273455641574	eResuelto03_autogen/mocs_compilation.cpp	2460c581cf74b83d
+13	400	7527273455641574	D:/Qt/eResuelto03/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug/eResuelto03_autogen/timestamp	2460c581cf74b83d
+13	400	7527273455641574	D:/Qt/eResuelto03/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug/eResuelto03_autogen/mocs_compilation.cpp	2460c581cf74b83d
+407	520	7527273457102284	CMakeFiles/eResuelto03.dir/eResuelto03_autogen/mocs_compilation.cpp.obj	889c7398e4837d77
+414	4990	7527273457169769	CMakeFiles/eResuelto03.dir/main.cpp.obj	16f722d336fc1a3c
+4995	5234	7527273502993557	eResuelto03.exe	3aa4be2b11a0ca42
+44	428	7527274709733102	eResuelto03_autogen/timestamp	2460c581cf74b83d
+44	428	7527274709733102	eResuelto03_autogen/mocs_compilation.cpp	2460c581cf74b83d
+44	428	7527274709733102	D:/Qt/eResuelto03/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug/eResuelto03_autogen/timestamp	2460c581cf74b83d
+44	428	7527274709733102	D:/Qt/eResuelto03/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug/eResuelto03_autogen/mocs_compilation.cpp	2460c581cf74b83d
+442	6125	7527274713682265	CMakeFiles/eResuelto03.dir/main.cpp.obj	16f722d336fc1a3c
+6125	6425	7527274770547171	eResuelto03.exe	3aa4be2b11a0ca42
+49	316	7527279932349365	eResuelto03_autogen/timestamp	2460c581cf74b83d
+49	316	7527279932349365	eResuelto03_autogen/mocs_compilation.cpp	2460c581cf74b83d
+49	316	7527279932349365	D:/Qt/eResuelto03/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug/eResuelto03_autogen/timestamp	2460c581cf74b83d
+49	316	7527279932349365	D:/Qt/eResuelto03/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug/eResuelto03_autogen/mocs_compilation.cpp	2460c581cf74b83d
+318	2160	7527279935039329	CMakeFiles/eResuelto03.dir/main.cpp.obj	16f722d336fc1a3c
+2160	2462	7527279953466299	eResuelto03.exe	3aa4be2b11a0ca42
+51	341	7527346930793878	eResuelto03_autogen/timestamp	2460c581cf74b83d
+51	341	7527346930793878	eResuelto03_autogen/mocs_compilation.cpp	2460c581cf74b83d
+51	341	7527346930793878	D:/Qt/eResuelto03/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug/eResuelto03_autogen/timestamp	2460c581cf74b83d
+51	341	7527346930793878	D:/Qt/eResuelto03/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug/eResuelto03_autogen/mocs_compilation.cpp	2460c581cf74b83d
+343	3079	7527346933707930	CMakeFiles/eResuelto03.dir/main.cpp.obj	16f722d336fc1a3c
+3080	3353	7527346961086548	eResuelto03.exe	3aa4be2b11a0ca42

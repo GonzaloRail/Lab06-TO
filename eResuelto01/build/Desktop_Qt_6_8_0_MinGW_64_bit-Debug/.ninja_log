@@ -1,0 +1,8 @@
+# ninja log v6
+15	478	7527340951232830	eResuelto01_autogen/timestamp	38a76fe1260be48b
+15	478	7527340951232830	eResuelto01_autogen/mocs_compilation.cpp	38a76fe1260be48b
+15	478	7527340951232830	D:/Qt/eResuelto01/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug/eResuelto01_autogen/timestamp	38a76fe1260be48b
+15	478	7527340951232830	D:/Qt/eResuelto01/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug/eResuelto01_autogen/mocs_compilation.cpp	38a76fe1260be48b
+495	620	7527340952857914	CMakeFiles/eResuelto01.dir/eResuelto01_autogen/mocs_compilation.cpp.obj	3fc64e5e00c93912
+502	3040	7527340952926499	CMakeFiles/eResuelto01.dir/main.cpp.obj	8babb809410b38e8
+3048	3351	7527340978385365	eResuelto01.exe	113e9df888c0b06e

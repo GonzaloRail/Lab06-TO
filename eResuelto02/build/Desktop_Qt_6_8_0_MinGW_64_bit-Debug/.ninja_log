@@ -1,0 +1,24 @@
+# ninja log v6
+19	409	7527266421364782	eResuelto02_autogen/timestamp	3776627177e89686
+19	409	7527266421364782	eResuelto02_autogen/mocs_compilation.cpp	3776627177e89686
+19	409	7527266421364782	D:/Qt/eResuelto02/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug/eResuelto02_autogen/timestamp	3776627177e89686
+19	409	7527266421364782	D:/Qt/eResuelto02/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug/eResuelto02_autogen/mocs_compilation.cpp	3776627177e89686
+426	561	7527266422638309	CMakeFiles/eResuelto02.dir/eResuelto02_autogen/mocs_compilation.cpp.obj	203d8a5150506b8
+435	5073	7527266422716623	CMakeFiles/eResuelto02.dir/main.cpp.obj	d48c7ee56dbd9e02
+5077	5347	7527266469145132	eResuelto02.exe	236ab040faa78f91
+37	272	7527280204445026	eResuelto02_autogen/timestamp	3776627177e89686
+37	272	7527280204445026	eResuelto02_autogen/mocs_compilation.cpp	3776627177e89686
+37	272	7527280204445026	D:/Qt/eResuelto02/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug/eResuelto02_autogen/timestamp	3776627177e89686
+37	272	7527280204445026	D:/Qt/eResuelto02/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug/eResuelto02_autogen/mocs_compilation.cpp	3776627177e89686
+285	3433	7527280206925769	CMakeFiles/eResuelto02.dir/main.cpp.obj	d48c7ee56dbd9e02
+3433	3639	7527280238403900	eResuelto02.exe	236ab040faa78f91
+68	439	7527344544854057	eResuelto02_autogen/timestamp	3776627177e89686
+68	439	7527344544854057	eResuelto02_autogen/mocs_compilation.cpp	3776627177e89686
+68	439	7527344544854057	D:/Qt/eResuelto02/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug/eResuelto02_autogen/timestamp	3776627177e89686
+68	439	7527344544854057	D:/Qt/eResuelto02/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug/eResuelto02_autogen/mocs_compilation.cpp	3776627177e89686
+53	253	7527345308552269	eResuelto02_autogen/timestamp	3776627177e89686
+53	253	7527345308552269	eResuelto02_autogen/mocs_compilation.cpp	3776627177e89686
+53	253	7527345308552269	D:/Qt/eResuelto02/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug/eResuelto02_autogen/timestamp	3776627177e89686
+53	253	7527345308552269	D:/Qt/eResuelto02/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug/eResuelto02_autogen/mocs_compilation.cpp	3776627177e89686
+254	3878	7527345310549868	CMakeFiles/eResuelto02.dir/main.cpp.obj	d48c7ee56dbd9e02
+3878	4105	7527345346804771	eResuelto02.exe	236ab040faa78f91
